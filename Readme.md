@@ -1,9 +1,17 @@
-# NativeBase TypeScript Expo Template
+# Description
 
-The official NativeBase TypeScript template for [Expo](https://docs.expo.io/)
+React native (expo) IA Test with Gemini api
 
-## Usage
+### Development
 
-```sh
-expo init my-app --template @native-base/expo-template-typescript
+1. Configure environment variables `cp .env.example .env`
+
+## Running the app
+
+```bash
+# android
+$ yarn android
+
+# ios
+$ yarn ios
 ```
